@@ -1,0 +1,4 @@
+logging:
+  level:
+    root: INFO
+    com.poc.demo01: DEBUG
